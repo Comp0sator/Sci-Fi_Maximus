@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{D36268EB-4602-812B-DBCF-9CA5D41AFC41}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Console2",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
